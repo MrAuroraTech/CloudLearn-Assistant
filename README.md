@@ -198,3 +198,10 @@ V3.0.0
 本脚本仅供学习交流使用，请勿用于商业用途或违规操作。使用本脚本所产生的任何后果由用户自行承担。 
 
 未经授权禁止复制 / 修改 / 分发。侵权必究。
+成功图：
+<img width="597" height="588" alt="a10a2ed41bcd5999a4cb489964ac6a8f" src="https://github.com/user-attachments/assets/d6b35276-093e-4262-b386-d3431c86438c" />
+<img width="597" height="439" alt="591c5254d92bedd9efc237999478eb95" src="https://github.com/user-attachments/assets/d51e77cd-0e1a-429d-ac42-c9593d5fb0ca" />
+<img width="603" height="900" alt="3c9d6df68567f2fe853f5c259a0bff03" src="https://github.com/user-attachments/assets/16831c7c-79ad-4e94-ae69-8d83d9d1e558" />
+
+
+
